@@ -1,16 +1,32 @@
-## Hi there 👋
+<body>
+    <!--타이틀-->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E5959C&text=wooryun's%20Github&fontAlign=50fontAlignY=35&fontSize=70&fontColor=7399C7&animation=twinkling" />
+</div>
 
-<!--
-**wooryun/wooryun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--내용 부분-->
+<h3 align="center">⭐️ Keep Studying ⭐️</h3>
+    <!--HTML5-->
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <!--JavaScript-->
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <!--CSS-->
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <!--Python-->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <!--Fast API-->
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+    <!--Flask-->
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+    <!--Django-->
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
-Here are some ideas to get you started:
+    <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Github Stats-->
+## 📊 Github Stats
+<div align="center">
+[!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=wooryun)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooryun)](https://github.com/anuraghazra/github-readme-stats)
+</div>
