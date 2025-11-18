@@ -1,6 +1,6 @@
 <div align="center">
     <!--Header-->
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=E5959C&text=wooryun's%20Github&fontAlign=50fontAlignY=30&fontSize=70&fontColor=7399C7&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E5959C&text=wooryun's%20Github&fontAlign=50fontAlignY=70&fontSize=70&fontColor=7399C7&animation=twinkling" />
 </div>
 
 <div>
@@ -37,5 +37,5 @@
 
 <div align="center">
 <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=wooryun&label=PROFILE+VIEWS&color=grey&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=wooryun&label=PROFILE+VIEWS&color=lightblue&style=for-the-badge" />
 </div>
