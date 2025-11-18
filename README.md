@@ -28,12 +28,10 @@ fl<div>
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
     <!--Django-->
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
   <br/>
 
   ## 🤔 Github Stats
-  [!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=wooryun)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooryun)](https://github.com/anuraghazra/github-readme-stats)
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooryun&layout=compact)
 </div>
