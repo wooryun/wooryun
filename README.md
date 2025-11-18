@@ -1,11 +1,12 @@
 <body>
     <!--타이틀-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E5959C&text=wooryun's%20Github&fontAlign=50fontAlignY=35&fontSize=70&fontColor=7399C7&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E5959C&text=wooryun's%20Github&fontAlign=50fontAlignY=50&fontSize=70&fontColor=7399C7&animation=twinkling" />
 </div>
 
 <!--내용 부분-->
 <h3 align="center">⭐️ Keep Studying ⭐️</h3>
+<div align="center">
     <!--HTML5-->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <!--JavaScript-->
@@ -20,8 +21,9 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
     <!--Django-->
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+</div>
 
-    <br>
+<br>
 
 <!--Github Stats-->
 ## 📊 Github Stats
