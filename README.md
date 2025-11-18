@@ -1,11 +1,11 @@
-  <div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=E5959C&text=wooryun's%20Github&fontAlign=50fontAlignY=30&fontSize=70&fontColor=7399C7&animation=twinkling)
-  </div>
+<div align="center">
+    <!--Header-->
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=E5959C&text=wooryun's%20Github&fontAlign=50fontAlignY=30&fontSize=70&fontColor=7399C7&animation=twinkling" />
+</div>
 
 <div>
-  <!--Body-->
-  
+    <!--Body-->
+    
 ## wooryun
 **🔥 I dream of becoming a full-stack developer**
   <br/>
@@ -33,9 +33,7 @@
   <br/>
 
   ## 🤔 Github Stats
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooryun&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooryun&layout=compact)
 
 <div align="center">
 <!-- Profile Views -->
